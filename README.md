@@ -1,7 +1,7 @@
 
 # Repositório destinado ao Projeto Integrador III do Centro Universitário SENAC.
 
-O grupo é composto por 4 integrantes:
+O grupo é composto por 4 integrantes
 
 - Anderson Salaroli
 - Igor Gomes da Costa Junior
